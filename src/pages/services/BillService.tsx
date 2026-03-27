@@ -44,7 +44,6 @@ export function BillService() {
               src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800" 
               alt="Electricity Services" 
               className="relative rounded-[3rem] shadow-2xl border-8 border-white object-cover w-full h-[500px]"
-              referrerPolicy="no-referrer"
             />
             <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-2xl shadow-xl border border-slate-100">
               <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-1">Service Fee</p>

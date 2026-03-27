@@ -269,7 +269,6 @@ export function Dashboard() {
               src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&q=80&w=800" 
               alt="Secure Payment" 
               className="w-full h-full object-cover opacity-10 group-hover:scale-110 transition-transform duration-1000"
-              referrerPolicy="no-referrer"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-blue-600 via-blue-600/60 to-transparent" />
           </div>

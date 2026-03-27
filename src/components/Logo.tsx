@@ -4,10 +4,9 @@ export function Logo({ className, iconOnly = false }: { className?: string; icon
   return (
     <div className={cn("flex items-center", className)}>
       <img 
-        src="/logo.png" 
+        src="logo.png" 
         alt="SwiftRecharge Logo" 
         className="h-full w-auto object-contain drop-shadow-sm"
-        referrerPolicy="no-referrer"
         onError={(e) => {
           // Fallback if image is not found
           e.currentTarget.src = "https://picsum.photos/seed/swiftrecharge/400/200";

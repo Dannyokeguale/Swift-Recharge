@@ -44,7 +44,6 @@ export function CableService() {
               src="https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&q=80&w=800" 
               alt="Cable TV Services" 
               className="relative rounded-[3rem] shadow-2xl border-8 border-white object-cover w-full h-[500px]"
-              referrerPolicy="no-referrer"
             />
             <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-2xl shadow-xl border border-slate-100">
               <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-1">Service Fee</p>

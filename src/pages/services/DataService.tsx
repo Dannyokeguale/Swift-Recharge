@@ -41,10 +41,9 @@ export function DataService() {
           >
             <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-purple-600/20 rounded-[3rem] blur-3xl" />
             <img 
-              src="/data_sub.jpg" 
+              src="data_sub.jpg" 
               alt="Data Services" 
               className="relative rounded-[3rem] shadow-2xl border-8 border-white object-cover w-full h-[500px]"
-              referrerPolicy="no-referrer"
             />
             <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-2xl shadow-xl border border-slate-100">
               <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-1">Starting from</p>

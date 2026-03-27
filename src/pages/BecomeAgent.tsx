@@ -41,7 +41,6 @@ export function BecomeAgent() {
               src="https://picsum.photos/seed/business/800/600"
               alt="Become an Agent"
               className="rounded-[3rem] shadow-2xl"
-              referrerPolicy="no-referrer"
             />
             <div className="absolute -top-10 -right-10 bg-white p-8 rounded-[2rem] shadow-2xl border border-slate-100 hidden lg:block">
               <div className="flex items-center gap-4 mb-4">

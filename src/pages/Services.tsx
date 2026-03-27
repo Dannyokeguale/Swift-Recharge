@@ -92,7 +92,6 @@ export function Services() {
                   src={service.img} 
                   alt={service.title} 
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="p-10">

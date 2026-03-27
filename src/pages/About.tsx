@@ -50,10 +50,9 @@ export function About() {
               className="relative z-10"
             >
               <img
-                src="/about_us.png"
+                src="about_us.png"
                 alt="Our Team"
                 className="rounded-[3rem] shadow-2xl border-8 border-white w-full object-cover aspect-[4/3]"
-                referrerPolicy="no-referrer"
               />
             </motion.div>
             
@@ -125,10 +124,9 @@ export function About() {
             >
               <div className="h-64 overflow-hidden">
                 <img
-                  src="/airtime_vtu.jpg"
+                  src="airtime_vtu.jpg"
                   alt="Airtime VTU"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="p-10">
@@ -152,10 +150,9 @@ export function About() {
             >
               <div className="h-64 overflow-hidden">
                 <img
-                  src="/data_sub.jpg"
+                  src="data_sub.jpg"
                   alt="Data Subscriptions"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="p-10">
@@ -182,7 +179,6 @@ export function About() {
                   src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800"
                   alt="Bill Payments"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="p-10">
@@ -253,10 +249,9 @@ export function About() {
             
             <div className="mt-auto relative rounded-[2.5rem] overflow-hidden">
               <img 
-                src="/data_sub.jpg" 
+                src="data_sub.jpg" 
                 alt="Our Community" 
                 className="w-full h-64 object-cover"
-                referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-8">
                 <p className="text-white font-bold italic">

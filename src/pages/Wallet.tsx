@@ -378,7 +378,6 @@ export function Wallet() {
               src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800" 
               alt="Payment Methods" 
               className="w-full h-full object-cover opacity-5 group-hover:scale-110 transition-transform duration-700"
-              referrerPolicy="no-referrer"
             />
           </div>
           <div className="relative z-10">

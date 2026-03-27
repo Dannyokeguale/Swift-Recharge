@@ -185,10 +185,9 @@ export function Home() {
             >
               <div className="absolute inset-0 z-0">
                 <img 
-                  src="/data_sub.jpg" 
+                  src="data_sub.jpg" 
                   alt="Data" 
                   className="w-full h-full object-cover opacity-10 group-hover:opacity-20 transition-opacity duration-500"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="flex flex-col h-full relative z-10">
@@ -229,10 +228,9 @@ export function Home() {
             >
               <div className="absolute inset-0 z-0">
                 <img 
-                  src="/airtime_vtu.jpg" 
+                  src="airtime_vtu.jpg" 
                   alt="Airtime" 
                   className="w-full h-full object-cover opacity-10 group-hover:opacity-20 transition-opacity duration-500"
-                  referrerPolicy="no-referrer"
                 />
               </div>
               <div className="relative z-10">
